@@ -21,4 +21,4 @@ const carol = {
 ```
 <br/>
 
-<img align="left" src="https://media.giphy.com/media/WTvUf3svrArNQKagLO/giphy.gif" width="35">
+<p align="center"><b><em>This is a little about me! <br>If u want to now more please contact me 💖</em></b></p>
