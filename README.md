@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2>What's up? I'm Carolina Ferreira 👩‍💻 🧚‍♀️</h2>
 
-<!--
-**carolinaferreira/carolinaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://media.giphy.com/media/dWmL1DJHoTCuwd7hXy/giphy.gif" width="120">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a></em></p>
 
-Here are some ideas to get you started:
+[![Twitter: Carolina Ferreira](https://img.shields.io/twitter/follow/caaarol_machado?style=social)](https://twitter.com/caaarol_machado)
+[![Linkedin: ferreira-carolina](https://img.shields.io/badge/-ferreira--carolina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferreira-carolina/)](https://www.linkedin.com/in/ferreira-carolina/)
+[![GitHub Carolina Fererira](https://img.shields.io/github/followers/carolinaferreira?label=follow&style=social)](https://github.com/carolinaferreira)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 🤔 Okay I'll tell you more about me...  
+
+```javascript
+const carol = {
+  pronouns: "she" | "her",
+  code: [TypeScript, Ruby, Javascript],
+  tools: [Angular, React, Node, Docker],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and node"
+}
+```
+<br/>
+
+<img align="left" src="https://media.giphy.com/media/WTvUf3svrArNQKagLO/giphy.gif" width="35">
