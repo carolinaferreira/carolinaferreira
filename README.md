@@ -16,8 +16,7 @@ const carol = {
   pronouns: "she" | "her",
   code: [TypeScript, Ruby, Javascript],
   tools: [Angular, React, Node, Docker],
-  techCommunities: { mentor: "BOSS - Big Open Source Sister"},
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and node"
+  techCommunities: { mentor: "BOSS - Big Open Source Sister"}
 }
 ```
 <br/>
